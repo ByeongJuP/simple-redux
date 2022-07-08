@@ -11,7 +11,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <span>Simple Redux</span>
       </header>
+      <hr className="App-horizon" />
+      <hr className="App-horizon" />
       <CountComponent />
+      <hr className="App-horizon" />
       <hr className="App-horizon" />
       <MemoComponent />
     </div>
